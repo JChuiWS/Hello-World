@@ -1,1 +1,3 @@
 # Hello-World
+
+Hi, I am new to GITHUB. Learning it now...
